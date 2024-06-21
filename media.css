@@ -1,0 +1,121 @@
+@media screen and (max-width: 972px) {
+  main {
+    margin-left: 60px;
+  }
+}
+
+@media screen and (max-width: 570px) {
+  main {
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+}
+
+@media screen and (max-width: 430px) {
+  main {
+    width: 80vw;
+    height: 85vh;
+  }
+  body {
+    font-size: 10px;
+  }
+  .line,
+  .line2 {
+    width: 280px;
+  }
+  a {
+    margin-right: 200px;
+  }
+  footer p {
+    margin-right: 200px;
+  }
+  footer {
+    margin-top: 5px;
+    height: 60px;
+  }
+  .menu__icons {
+    margin-left: 150px;
+  }
+  .one {
+    margin-right: 190px;
+  }
+  .two {
+    margin-right: 165px;
+  }
+  .three {
+    margin-right: 188px;
+  }
+  .four {
+    margin-right: 218px;
+  }
+  .five {
+    margin-right: 230px;
+  }
+
+  .oned {
+    margin-right: 240px;
+  }
+  .twod {
+    margin-right: 218px;
+  }
+  .threed {
+    margin-right: 210px;
+  }
+  .fourd {
+    margin-right: 192px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  main {
+    width: 368px;
+    margin-top: 10px;
+    margin-bottom: 1000px;
+  }
+  .menu__icons {
+    margin-left: 140px;
+  }
+  .one {
+    margin-right: 170px;
+  }
+  .two {
+    margin-right: 145px;
+  }
+  .three {
+    margin-right: 168px;
+  }
+  .four {
+    margin-right: 198px;
+  }
+  .five {
+    margin-right: 210px;
+  }
+
+  .oned {
+    margin-right: 220px;
+  }
+  .twod {
+    margin-right: 198px;
+  }
+  .threed {
+    margin-right: 190px;
+  }
+  .fourd {
+    margin-right: 172px;
+  }
+  .line,
+  .line2 {
+    width: 250px;
+  }
+  body {
+    height: 100vh;
+    margin-top: 0;
+    margin-right: 0;
+  }
+}
+
+@media screen and (max-width: 410px) {
+  main {
+    height: 110vh;
+  }
+}
